@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Aroma Tico">
+  <g transform="translate(110 40) scale(1.5)">
+    <path d="M24 58H90C90 83 76 97 57 97C38 97 24 83 24 58Z" fill="#3b2418"/>
+    <path d="M90 64C106 64 106 82 88 84" fill="none" stroke="#3b2418" stroke-width="6" stroke-linecap="round"/>
+    <path d="M28 106H86" stroke="#3b2418" stroke-width="5" stroke-linecap="round"/>
+    <path d="M57 56C38 50 36 27 57 15C78 27 76 50 57 56Z" fill="#3f6b3a"/>
+    <path d="M57 54V24" stroke="#f5ecdc" stroke-width="2.5" stroke-linecap="round"/>
+    <ellipse cx="57" cy="76" rx="9" ry="12" transform="rotate(35 57 76)" fill="#f5ecdc"/>
+    <path d="M51 85C58 79 56 73 63 67" fill="none" stroke="#3b2418" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+  <text x="200" y="285" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="56" font-weight="700" letter-spacing="3" fill="#3b2418">AROMA TICO</text>
+  <path d="M130 312H270" stroke="#3f6b3a" stroke-width="3" stroke-linecap="round"/>
+</svg>
