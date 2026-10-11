@@ -29,6 +29,7 @@ server {
 }
 EOF
 sudo ln -sf /etc/nginx/sites-available/aroma-tico /etc/nginx/sites-enabled/aroma-tico
+sudo rm -f /etc/nginx/sites-enabled/default   # el default quiere el puerto 80, que ya usa otro servicio
 sudo nginx -t
 sudo systemctl enable --now nginx
 sudo systemctl reload nginx
