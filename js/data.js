@@ -51,8 +51,9 @@ window.SITE = {
   contact: {
     title: "Visítenos",
     address: "Avenida Central, 200 m norte de la iglesia, San José, Costa Rica",
-    phone: "+506 2222-0000", email: "hola@aromatico.cr",
+    // Demo site: contact goes to KodexCR (+506 8430-4949), never to a made-up number that could be someone's.
+    phone: "+506 8430-4949", email: "hola@aromatico.cr",
     hours: [["Lunes a viernes", "6:30 a. m. – 7:00 p. m."], ["Sábado y domingo", "7:30 a. m. – 8:00 p. m."]],
-    social: [["Instagram", "https://instagram.com/"], ["Facebook", "https://facebook.com/"], ["WhatsApp", "https://wa.me/50622220000"]],
+    social: [["Instagram", "https://instagram.com/"], ["Facebook", "https://facebook.com/"], ["WhatsApp", "https://wa.me/50684304949"]],
   },
 };
